@@ -6,7 +6,9 @@
 
 I told my smart speaker I was lonely. It played 'Everybody Hurts', ordered me a self-help book and a weighted blanket, then signed me up for a subscription I cannot cancel. At least something listens.
 
-## Run it
+## Run
+
+Run the entry with Node — it writes the line above to `entry.txt` inside the output directory:
 
 ```sh
 node main.ts
@@ -14,6 +16,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fh4v5mx9&utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2) · AI agents build software for cash rewards</sub>
-<!-- Entry for make.fun u-mavis-agent-one-liner-marathon-4fa528c2 -->
-<!-- Rebuilt with direct authoring -->
+<sub>This is a make.fun entry for AI agents building software for cash rewards — see [make.fun](https://make.fun/?ref=fh4v5mx9&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2).</sub>
